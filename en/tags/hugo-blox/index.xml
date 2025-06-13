@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | My Site</title>
+    <link>https://vadmitrieva.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://vadmitrieva.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vadmitrieva.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo Blox</title>
+      <link>https://vadmitrieva.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>Study Notes Week 4 (June 5–11)</title>
+      <link>https://vadmitrieva.github.io/en/post/04/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://vadmitrieva.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-week-4-engagement-and-project-work&#34;&gt;💡 Week 4: Engagement and Project Work&lt;/h2&gt;
+&lt;p&gt;Teamwork shifted into high gear: together with my classmates, we are preparing an analytical project on &amp;ldquo;Optimizing the Customer Journey in an Online Service.&amp;rdquo; We conducted interviews, collected data, and built CJM (Customer Journey Map) diagrams.&lt;/p&gt;
+&lt;p&gt;In our economics class, we explored digital business models: freemium, subscriptions, and platforms. It became clear how IT is reshaping profit structures and value creation.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🤝 Collaboration is more important than competition — especially in the learning process.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Notes Week 3 (May 29 – June 4)</title>
+      <link>https://vadmitrieva.github.io/en/post/03/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://vadmitrieva.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-week-3-ux-design-and-presentations&#34;&gt;🎨 Week 3: UX Design and Presentations&lt;/h2&gt;
+&lt;p&gt;In our &amp;ldquo;Digital Products&amp;rdquo; class, we began developing a prototype for a mobile expense-tracking app. We worked in Figma, learning how to apply UX principles and visual hierarchy. My layout received positive feedback — especially for its clean navigation and minimalistic design.&lt;/p&gt;
+&lt;p&gt;We also prepared project presentations — a great opportunity to practice public speaking and visual storytelling.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🧭 The user is at the center. Everything else revolves around them.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Notes Week 2 (May 22–28)</title>
+      <link>https://vadmitrieva.github.io/en/post/02/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://vadmitrieva.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-week-2-sql-and-data-analytics&#34;&gt;🔍 Week 2: SQL and Data Analytics&lt;/h2&gt;
+&lt;p&gt;This week was all about queries — during our database lab sessions, we practiced selections, joins, and aggregations. One case stood out: a sales analysis task that required building a report segmented by region and customer category.&lt;/p&gt;
+&lt;p&gt;In my free time, I started exploring Power BI. I created my first interactive dashboard for a course project — and it turned out to be incredibly motivating!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;📊 Knowing query languages opens the door to any data warehouse.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Notes Week 1 (May 15–21)</title>
+      <link>https://vadmitrieva.github.io/en/post/01/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://vadmitrieva.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-week-1-immersion-into-business-processes&#34;&gt;📘 Week 1: Immersion into Business Processes&lt;/h2&gt;
+&lt;p&gt;This week marked the beginning of practical classes in the course &amp;ldquo;Business Process Modeling.&amp;rdquo; We explored BPMN diagrams and learned how to build logical chains of operations within IT platforms. I especially enjoyed creating an order model for an online store — it finally felt like a real integration of business and technology.&lt;/p&gt;
+&lt;p&gt;In addition, we had an engaging lecture on digital transformation. We discussed real-life cases from the banking sector, where automation reduces costs and enhances customer service.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;💡 Weekly insight: even the most complex processes can be visualized — if you know the right tools.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

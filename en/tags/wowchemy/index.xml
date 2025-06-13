@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wowchemy | My Site</title>
+    <link>https://vadmitrieva.github.io/en/tags/wowchemy/</link>
+      <atom:link href="https://vadmitrieva.github.io/en/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wowchemy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vadmitrieva.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Wowchemy</title>
+      <link>https://vadmitrieva.github.io/en/tags/wowchemy/</link>
+    </image>
+    
+    <item>
+      <title>Scholar&#39;s Website on Hugo Academic</title>
+      <link>https://vadmitrieva.github.io/en/project/hugo/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://vadmitrieva.github.io/en/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;-scholars-website-on-hugo-academic-a-modern-academic-portfolio&#34;&gt;🌐 Scholar&amp;rsquo;s Website on Hugo Academic: A Modern Academic Portfolio&lt;/h1&gt;
+&lt;h2 id=&#34;-why-does-a-scholar-need-a-website&#34;&gt;📌 Why does a scholar need a website?&lt;/h2&gt;
+&lt;p&gt;In today’s academic world, a &lt;strong&gt;personal website&lt;/strong&gt; is not just a digital business card — it’s a powerful tool:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;to showcase research results;&lt;/li&gt;
+&lt;li&gt;to attract colleagues and researchers to your projects;&lt;/li&gt;
+&lt;li&gt;to highlight teaching and project activities;&lt;/li&gt;
+&lt;li&gt;to build an open profile, understandable even outside academia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;strong&gt;Hugo Academic&lt;/strong&gt; platform (now known as &lt;strong&gt;Hugo Scholar&lt;/strong&gt;) is one of the most popular frameworks for creating a personal site for a scholar, educator, or researcher.&lt;/p&gt;
+&lt;h2 id=&#34;-what-is-hugo-and-why-academic&#34;&gt;🛠 What is Hugo and why Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; is a static site generator written in Go. It’s incredibly fast, easy to deploy, and doesn’t require a server or database. Hugo generates pure HTML pages that can be hosted on GitHub Pages, Netlify, or any other hosting service.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; is a prebuilt theme/template specifically adapted for academic needs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publications, papers, and conferences;&lt;/li&gt;
+&lt;li&gt;teaching materials and courses;&lt;/li&gt;
+&lt;li&gt;research projects;&lt;/li&gt;
+&lt;li&gt;skill sets, awards, participation history, and more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-features-of-the-academic-site&#34;&gt;🎓 Features of the Academic Site&lt;/h2&gt;
+&lt;h3 id=&#34;-1-publications&#34;&gt;🔬 1. Publications&lt;/h3&gt;
+&lt;p&gt;A convenient system to manage academic papers, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;uploading PDFs;&lt;/li&gt;
+&lt;li&gt;displaying DOI and BibTeX entries;&lt;/li&gt;
+&lt;li&gt;filtering by type and category;&lt;/li&gt;
+&lt;li&gt;automatic syncing with Google Scholar or manual entry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-2-teaching-and-courses&#34;&gt;🏫 2. Teaching and Courses&lt;/h3&gt;
+&lt;p&gt;You can design course structures, attach materials, lectures, presentations, videos, and reading lists. Especially useful for university instructors.&lt;/p&gt;
+&lt;h3 id=&#34;-3-projects&#34;&gt;🗂 3. Projects&lt;/h3&gt;
+&lt;p&gt;Project blocks allow you to showcase current research directions, collaborations, or practical developments.&lt;/p&gt;
+&lt;h3 id=&#34;-4-multilingual-support&#34;&gt;🌐 4. Multilingual Support&lt;/h3&gt;
+&lt;p&gt;Academic supports multilingual sites — perfect if you work in an international setting or want your site in both English and another language.&lt;/p&gt;
+&lt;h3 id=&#34;-5-skills-interests-and-achievements&#34;&gt;📊 5. Skills, Interests, and Achievements&lt;/h3&gt;
+&lt;p&gt;A visual way to highlight your competencies, hobbies, and research interests — a great method to introduce yourself to a broader audience.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-to-get-started&#34;&gt;🚀 How to Get Started&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Install Hugo (available for Windows, macOS, and Linux).&lt;/li&gt;
+&lt;li&gt;Clone the Academic template repository.&lt;/li&gt;
+&lt;li&gt;Edit the &lt;code&gt;config/_default/config.yaml&lt;/code&gt; file: add your name, bio, links, interests, and sections.&lt;/li&gt;
+&lt;li&gt;Fill folders with your publications, courses, projects, and skills.&lt;/li&gt;
+&lt;li&gt;Run the site locally, test it — and publish via GitHub Pages or Netlify.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hugo Academic doesn’t require advanced web development skills — basic knowledge of Markdown and Git is enough.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-benefits-of-an-academic-site&#34;&gt;💡 Benefits of an Academic Site&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✨ Professional look “out of the box”;&lt;/li&gt;
+&lt;li&gt;⚡ Fast performance thanks to static generation;&lt;/li&gt;
+&lt;li&gt;🧩 Flexibility and expandability — easily add custom sections;&lt;/li&gt;
+&lt;li&gt;🗃 Full control over your content and style;&lt;/li&gt;
+&lt;li&gt;📢 Enhanced academic visibility online.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🧠 Conclusion&lt;/h2&gt;
+&lt;p&gt;A personal site built with Hugo Academic is more than just a page. It’s a workspace to systematize your academic activity and a tool for scholarly promotion.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re a student, graduate researcher, academic, or instructor — such a site becomes your personal archive, CV, and a showcase of your work.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Leave a trace on the web — share your ideas, projects, and science yourself.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;Let me know if you&amp;rsquo;d like a step-by-step guide for launching your site, tailored to your profile or department.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
